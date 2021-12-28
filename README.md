@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vatanak10
 - 👀 I’m interested in Python, JavaScript
 - 🌱 I’m currently learning Vuetify and NuxtJS
-- 💞️ I’m looking to collaborate on working as Front-end developer
+- 💞️ I’m looking to collaborate on working as Web developer
 - 📫 How to reach me: koeurnsereyvatanak@gmail.com
 
 <!---
