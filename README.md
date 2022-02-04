@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatanak10
 - 👀 I’m interested in Python, JavaScript
-- 🌱 I’m have experience on NuxtJS, Vue, Vuetify, and Angular
+- 🌱 I have experience on NuxtJS, Vue, Vuetify, and Angular
 - 💞️ I’m looking to collaborate on working as Web developer
 - 📫 How to reach me: koeurnsereyvatanak@gmail.com
 
