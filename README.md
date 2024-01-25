@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vatanak</h1>
-<h3 align="center">A Software Engineer passionate on creating beautiful and functional websites.</h3>
+<h3 align="center">A Software Developer passionate about creating beautiful and functional websites.</h3>
 
 <!---
   <img align="right" alt="coding" width="400" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" >
 --->
 
 <!--- - 👋 Hi, I’m @vatanak10 --->
-- 👀 I’m interested in JavaScript, TypeScript and Python.
-- 🌱 I have experience on various technologies such as Vue, React, and Angular
-- 💞️ I’m looking to collaborate on working as a Software Engineer
+- 👀 I’m interested in JavaScript, TypeScript, and Python.
+- 🌱 I have experience with various technologies such as Vue, React, and Angular
+- 💞️ I’m looking to collaborate on working as a Software Developer
 - 📫 How to reach me: koeurnsereyvatanak@gmail.com
-- 👨‍💻 All of my projects are available at [my portfolio site](https://www.vatanak.dev/).
-- 📄 Wanna know about my experiences? [Checkout my CV here](https://www.vatanak.dev/assets/docs/Serey_Vatanak_KOEURN_CV.pdf).
+- 👨‍💻 My projects are available at [my portfolio site](https://www.vatanak.dev/).
+- 📄 Wanna know about my experiences? [Check out my CV here](https://www.vatanak.dev/assets/docs/Serey_Vatanak_KOEURN_CV.pdf).
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatanak10&show_icons=true&locale=en&layout=compact" alt="vatanak10" /></p>
 
