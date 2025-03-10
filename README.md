@@ -10,8 +10,8 @@
 - 🌱 I have experience with various technologies such as Vue, React, and Angular
 - 💞️ I’m looking to collaborate on working as a Software Developer
 - 📫 How to reach me: koeurnsereyvatanak@gmail.com
-- 👨‍💻 My projects are available at [my portfolio site](https://www.vatanak.dev/).
-- 📄 Wanna know about my experiences? [Check out my CV here](https://www.vatanak.dev/assets/docs/Serey_Vatanak_KOEURN_CV.pdf).
+- 👨‍💻 My projects are available at [my portfolio site](https://www.vatanak.com/).
+- 📄 Wanna know about my experiences? [Check out my CV here](https://www.vatanak.com/assets/docs/Serey_Vatanak_KOEURN_CV.pdf).
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatanak10&show_icons=true&locale=en&layout=compact" alt="vatanak10" /></p>
 
